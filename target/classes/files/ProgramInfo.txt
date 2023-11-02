@@ -1,0 +1,37 @@
+<html>
+<body>
+
+    <h2>General info</h2>
+    <hr>
+    <p>
+        Author:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=> AndrBel<br>
+        Version:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=> Mark 2.0<br>
+        Release date:&nbsp;=> 23/06/2022
+    </p>
+	<br>
+    <h2>AutoCliker stopped</h2>
+    <hr>
+    <p>
+        Use parameters to configure Autocliker&nbsp&nbsp<br>
+        Press [Start Button] to init AutoCliker&nbsp&nbsp
+    </p>
+	<br>
+    <h2>AutoCliker running</h2>
+    <hr>
+    <p>
+        ESC Key:&nbsp;=> Close AutoCliker<br>
+        X Key:&nbsp;&nbsp;&nbsp;=> Stop AutoCliker<br>
+        P Key:&nbsp;&nbsp;&nbsp;=> Pause AutoCliker
+    </p>
+	<br>
+    <h2>Default values</h2>
+    <hr>
+    <p>
+    	NVertex:&nbsp;&nbsp;&nbsp;=> min: 2 max: 300<br>
+        Radius:&nbsp;&nbsp;&nbsp;&nbsp;=> min: 1 max: 100<br>
+        Click/sec:&nbsp;=> min: 1 max: 1000<br>
+        Time:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=> Empty == Infinite
+	</p>
+	<br>
+</body>
+</html>
